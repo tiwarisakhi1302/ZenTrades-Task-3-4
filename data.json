@@ -1,0 +1,92 @@
+{
+    "CompanyMetrics" : [
+        {
+            "metric" : "Total Revenue",
+            "value" : "$406,411.29"
+        },
+        {
+            "metric" : "Total Jobs Avg",
+            "value" : "$620"
+        },
+        {
+            "metric" : "Tickets Created",
+            "value" : "655"
+        },
+        {
+            "metric" : "Tickets Scheduled",
+            "value" : "735"
+        },
+        {
+            "metric" : "Outstanding Amount",
+            "value" : "$110,448.8"
+        },
+        {
+            "metric" : "Memberships Sold",
+            "value" : "105"
+        },
+        {
+            "metric" : "Jobs Completed",
+            "value" : "436"
+        },
+        {
+            "metric" : "Total Canceled",
+            "value" : "65"
+        }
+    ],
+    "RevenueByJobLocation" : [
+        {
+            "Location" : "Everett",
+            "value" : 90000
+        },
+        {
+            "Location" : "Seattle",
+            "value" : 86000
+        },
+        {
+            "Location" : "Lynnwood",
+            "value" : 49000
+        },
+        {
+            "Location" : "Bothell",
+            "value" : 47000
+        },
+        {
+            "Location" : "Mukilteo",
+            "value" : 41000
+        },
+        {
+            "Location" : "Edmonds",
+            "value" : 34000
+        }
+    ],
+    "RevenueByJobType" : [
+        {
+            "Type" : "Service Plumbing",
+            "value" : 185000
+        },
+        {
+            "Type" : "Bid Work HVAC",
+            "value" : 130000
+        },
+        {
+            "Type" : "Service HVAC",
+            "value" : 79000
+        },
+        {
+            "Type" : "Bid Work Plumbing",
+            "value" : 76000
+        },
+        {
+            "Type" : "HWT Replacement",
+            "value" : 46000
+        },
+        {
+            "Type" : "Maintenance",
+            "value" : 42000
+        },
+        {
+            "Type" : "Material Sale",
+            "value" : 2000
+        }
+    ]
+}
